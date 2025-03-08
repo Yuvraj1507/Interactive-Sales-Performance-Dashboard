@@ -122,12 +122,18 @@ The dashboard includes the following:
 
 ### Pictures
 Here are some screenshots of the Interactive Sales Performance Dashboard:
-Database Intergration -
+
+# Database Intergration:
+
+
 <img width="945" alt="Screenshot 2025-01-12 182102" src="https://github.com/user-attachments/assets/f04a97e5-3f1a-4854-944b-9c91ddefa567" />
 
 <img width="949" alt="Screenshot 2025-01-12 182120" src="https://github.com/user-attachments/assets/3b81969c-63b4-4dc0-8f59-af62837f36e3" />
 
-Excel intergration -
+
+# Excel intergration:
+
+
 <img width="944" alt="Screenshot 2025-01-12 182214" src="https://github.com/user-attachments/assets/eab4194a-19c9-4d88-9110-135311a83bc5" />
 
 <img width="948" alt="Screenshot 2025-01-12 182241" src="https://github.com/user-attachments/assets/00f98cd7-3f56-4aed-8f45-5ecf3150a4f8" />
