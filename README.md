@@ -1,10 +1,10 @@
-Interactive Sales Performance Dashboard
+# Interactive Sales Performance Dashboard
 
 This project showcases two versions of an Interactive Sales Performance Dashboard developed using Power BI. 
 The first version integrates a SQL Database (MySQL/PostgreSQL/SQL Server), and the second version uses Excel as the data source.
 Both versions provide real-time data analysis, advanced data visualization, and insightful predictive analytics for sales performance tracking.
 
-Project Overview
+# Project Overview
 
 The Interactive Sales Performance Dashboard is designed to visualize and analyze sales data across 
 multiple dimensions, including:
@@ -16,7 +16,7 @@ multiple dimensions, including:
 * Forecasting and predictive analysis
 * Geospatial insights via maps
   
-Features
+## Features
 * SQL Version: DirectQuery integration for real-time data updates.
 * Excel Version: Data pulled from Excel files for smaller-scale projects.
 * Advanced Visualizations: KPI cards, trend analysis, line charts, bar charts, and maps.
@@ -24,7 +24,7 @@ Features
 * Drill-through and Slicers: Interactive filtering and detailed insights.
 * Forecasting: Predicted sales trends based on historical data.
   
-Table of Contents
+## Table of Contents
 1.Prerequisites
 2.Setup Instructions
 3.SQL Version - Setup
@@ -36,7 +36,7 @@ Table of Contents
 9.Contributing
 10.License
 
-Prerequisites
+## Prerequisites
 Before you start, ensure you have the following installed on your machine:
 
 For SQL Version:
@@ -49,7 +49,7 @@ For Excel Version:
 * Excel: The sales data should be stored in an Excel file. The project uses sample data, which
   you can replace with your own.
 
-Setup Instructions
+## Setup Instructions
 
 1. Clone the Repository
 Clone the repository to your local machine using the following command:
@@ -111,7 +111,7 @@ Excel Version - Setup
 ~ Create DAX measures for metrics such as total sales, profit margins, and growth rates.
 ~ Design visualizations (e.g., bar charts, line charts, maps).
 
-Power BI Design
+## Power BI Design
 The dashboard includes the following:
 
 * Main Dashboard: Displays an overview of total sales, sales by region, and profit margins.
@@ -120,7 +120,7 @@ The dashboard includes the following:
 * KPI Cards: For metrics like total sales, average sales per region, and growth rate.
 * Forecasting: DAX-powered forecast models for future sales.
 
-Pictures
+### Pictures
 Here are some screenshots of the Interactive Sales Performance Dashboard:
 Database Intergration -
 <img width="945" alt="Screenshot 2025-01-12 182102" src="https://github.com/user-attachments/assets/f04a97e5-3f1a-4854-944b-9c91ddefa567" />
@@ -139,17 +139,17 @@ How to Run the Project
 * Explore the various filters, slicers, and drill-through features to interact with the dashboard.
 * Use the forecasting model to predict future sales trends.
 
-Contributing
+## Contributing
 Feel free to contribute to this project by following these steps:
 
-Fork the repository.
+## Fork the repository.
 
 Create a new branch (git checkout -b feature-name).
 Make your changes and commit (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-name).
 Submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License 
 
 
